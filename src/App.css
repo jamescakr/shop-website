@@ -1,3 +1,7 @@
+body {
+  background-color: rgb(228, 231, 217) !important;
+}
+
 .nav-login-button {
   display: flex;
   justify-content: flex-end;
@@ -10,7 +14,6 @@
 }
 
 .nav-menu-list {
-  /* position: fixed; */
   display: flex;
   list-style-type: none;
 }
@@ -27,5 +30,12 @@
 .nav-search-bar {
   max-width: 170px;
   height: 10px;
-  /* margin-left: 85%; */
+}
+
+.card-tag {
+  display: flex;
+}
+
+.all-row-items {
+  /* margin-top: 350px !important; */
 }

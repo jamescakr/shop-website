@@ -2,129 +2,147 @@
   "products": [
     {
       "id": 0,
-      "img": "https://images.lululemon.com/is/image/lululemon/LW7AW9R_064494_1?wid=1125&op_usm=0.5,2,10,0&fmt=webp&qlt=80,1&fit=constrain,0&op_sharpen=0&resMode=sharp2&iccEmbed=0&printRes=72",
-      "title": "벨티드 트윌 코트",
-      "price": 99900,
-      "choice": true,
-      "new": true,
-      "size": ["S", "M", "L"]
+      "img": "https://images.lululemon.com/is/image/lululemon/LW7AW9R_064494_2?wid=1125&op_usm=0.5,2,10,0&fmt=webp&qlt=80,1&fit=constrain,0&op_sharpen=0&resMode=sharp2&iccEmbed=0&printRes=72",
+      "title": "Hotty Hot Low-Rise Lined Short 2.5",
+      "price": 58,
+      "bestseller": true,
+      "new": false,
+      "size": ["0", "2", "4", "6", "8", "10"]
     },
     {
       "id": 1,
-      "img": "https://noona-hnm.netlify.app/ankle-jeans.jpeg",
-      "title": "슬림핏 맘 하이웨이스트 앵클 진",
-      "price": 29900,
-      "choice": true,
+      "img": "https://images.lululemon.com/is/image/lululemon/LW5FARS_0001_2?wid=1125&op_usm=0.5,2,10,0&fmt=webp&qlt=80,1&fit=constrain,0&op_sharpen=0&resMode=sharp2&iccEmbed=0&printRes=72",
+      "title": "High-Rise Tight 25” Pockets",
+      "price": 128,
+      "bestseller": false,
       "new": true,
-      "size": ["S", "M", "L"]
+      "size": ["0", "2", "4", "6", "8", "10"]
     },
     {
       "id": 2,
-      "img": "https://noona-hnm.netlify.app/wide-jeans.jpeg",
-      "title": "와이드 하이웨이스트 진",
-      "price": "$30",
-      "choice": false,
-      "new": true,
-      "size": ["S", "M", "L"]
+      "img": "https://images.lululemon.com/is/image/lululemon/LW1ET6S_068060_2?wid=1125&op_usm=0.5,2,10,0&fmt=webp&qlt=80,1&fit=constrain,0&op_sharpen=0&resMode=sharp2&iccEmbed=0&printRes=72",
+      "title": "Scoop-Neck Cropped Tennis Tank Top",
+      "price": 68,
+      "bestseller": false,
+      "new": false,
+      "size": ["0", "2", "4", "6", "8", "10"]
     },
     {
       "id": 3,
-      "img": "https://noona-hnm.netlify.app/cottom-dress.jpeg",
-      "title": "퍼프 슬리브 드레스",
-      "price": "$30",
-      "choice": false,
+      "img": "https://images.lululemon.com/is/image/lululemon/LW2EB9S_036303_3?wid=1125&op_usm=0.5,2,10,0&fmt=webp&qlt=80,1&fit=constrain,0&op_sharpen=0&resMode=sharp2&iccEmbed=0&printRes=72",
+      "title": "Energy Longline Bra Medium Support",
+      "price": 54,
+      "bestseller": true,
       "new": true,
-      "size": ["S", "M", "L"]
+      "size": ["0", "2", "4", "6", "8", "10"]
     },
     {
       "id": 4,
-      "img": "https://noona-hnm.netlify.app/shirt-dress.jpeg",
-      "title": "프릴 디테일 드레스",
-      "price": "$30",
-      "choice": true,
+      "img": "https://images.lululemon.com/is/image/lululemon/LW3DFMS_068363_2?wid=1125&op_usm=0.5,2,10,0&fmt=webp&qlt=80,1&fit=constrain,0&op_sharpen=0&resMode=sharp2&iccEmbed=0&printRes=72",
+      "title": "Swiftly Tech Short-Sleeve Shirt",
+      "price": 58,
+      "bestseller": true,
       "new": false,
-      "size": ["S", "M", "L"]
+      "size": ["0", "2", "4", "6", "8", "10"]
     },
     {
       "id": 5,
-      "img": "https://noona-hnm.netlify.app/flare-dress.jpeg",
-      "title": "시퀸 플레어 드레스",
-      "price": "$30",
-      "choice": false,
+      "img": "https://images.lululemon.com/is/image/lululemon/LW3HYQS_0002_2?wid=1125&op_usm=0.5,2,10,0&fmt=webp&qlt=80,1&fit=constrain,0&op_sharpen=0&resMode=sharp2&iccEmbed=0&printRes=72",
+      "title": "Define Cropped Jacket",
+      "price": 118,
+      "bestseller": false,
       "new": false,
-      "size": ["S", "M", "L"]
+      "size": ["0", "2", "4", "6", "8", "10"]
     },
     {
       "id": 6,
-      "img": "https://noona-hnm.netlify.app/single-jacket.jpeg",
-      "title": "더블 브레스티드 재킷",
-      "price": "$30",
-      "choice": true,
-      "new": false,
-      "size": ["S", "M", "L"]
+      "img": "https://images.lululemon.com/is/image/lululemon/LW1EDSS_064494_1?wid=1125&op_usm=0.5,2,10,0&fmt=webp&qlt=80,1&fit=constrain,0&op_sharpen=0&resMode=sharp2&iccEmbed=0&printRes=72",
+      "title": "lululemon Align Dress",
+      "price": 138,
+      "bestseller": true,
+      "new": true,
+      "size": ["0", "2", "4", "6", "8", "10"]
     },
     {
       "id": 7,
-      "img": "https://noona-hnm.netlify.app/oversize-hoodie.jpeg",
-      "title": "오버사이즈 집업 후디",
-      "price": "$30",
-      "choice": false,
+      "img": "https://images.lululemon.com/is/image/lululemon/LW1DSIS_064494_1?wid=1125&op_usm=0.5,2,10,0&fmt=webp&qlt=80,1&fit=constrain,0&op_sharpen=0&resMode=sharp2&iccEmbed=0&printRes=72",
+      "title": "lululemon Align™ Bodysuit",
+      "price": 138,
+      "bestseller": false,
       "new": true,
-      "size": ["S", "M", "L"]
+      "size": ["0", "2", "4", "6", "8", "10"]
     },
     {
       "id": 8,
-      "img": "https://noona-hnm.netlify.app/track-jacket.jpeg",
-      "title": "아플리케 트랙 재킷",
-      "price": "$30",
-      "choice": true,
-      "new": true,
-      "size": ["S", "M", "L"]
+      "img": "https://images.lululemon.com/is/image/lululemon/LM4APWS_032894_2?wid=1125&op_usm=0.5,2,10,0&fmt=webp&qlt=80,1&fit=constrain,0&op_sharpen=0&resMode=sharp2&iccEmbed=0&printRes=72",
+      "title": "Pace Breaker Jacket",
+      "price": 158,
+      "bestseller": false,
+      "new": false,
+      "size": ["XS", "S", "M", "L", "XL", "XXL"]
     },
     {
       "id": 9,
-      "img": "https://noona-hnm.netlify.app/design-hoodie.jpeg",
-      "title": "프린트 후디",
-      "price": "$30",
-      "choice": false,
+      "img": "https://images.lululemon.com/is/image/lululemon/LM3FCJS_032489_2?wid=1125&op_usm=0.5,2,10,0&fmt=webp&qlt=80,1&fit=constrain,0&op_sharpen=0&resMode=sharp2&iccEmbed=0&printRes=72",
+      "title": "Venture Short-Sleeve Knit Polo Shirt",
+      "price": 108,
+      "bestseller": false,
       "new": true,
-      "size": ["S", "M", "L"]
+      "size": ["XS", "S", "M", "L", "XL", "XXL"]
     },
     {
       "id": 10,
-      "img": "https://noona-hnm.netlify.app/regular-wide-jeans.jpeg",
-      "title": "와이드 트윌 팬츠",
-      "price": "$30",
-      "choice": true,
-      "new": false,
-      "size": ["S", "M", "L"]
+      "img": "https://images.lululemon.com/is/image/lululemon/LM3FHLS_033976_2?wid=1125&op_usm=0.5,2,10,0&fmt=webp&qlt=80,1&fit=constrain,0&op_sharpen=0&resMode=sharp2&iccEmbed=0&printRes=72",
+      "title": "Metal Vent Tech Polo Shirt",
+      "price": 88,
+      "bestseller": false,
+      "new": true,
+      "size": ["XS", "S", "M", "L", "XL", "XXL"]
     },
     {
       "id": 11,
-      "img": "https://noona-hnm.netlify.app/high-jeans.jpeg",
-      "title": "플레어 로라이즈 진",
-      "price": "$30",
-      "choice": true,
-      "new": true,
-      "size": ["S", "M", "L"]
+      "img": "https://images.lululemon.com/is/image/lululemon/LM3FAES_027597_2?wid=1125&op_usm=0.5,2,10,0&fmt=webp&qlt=80,1&fit=constrain,0&op_sharpen=0&resMode=sharp2&iccEmbed=0&printRes=72",
+      "title": "Steady State Pullover Hoodie",
+      "price": 58,
+      "bestseller": false,
+      "new": false,
+      "size": ["XS", "S", "M", "L", "XL", "XXL"]
     },
     {
       "id": 12,
-      "img": "https://noona-hnm.netlify.app/mash-dress.jpeg",
-      "title": "셔링 메쉬 드레스",
-      "price": "$14.99",
-      "choice": true,
-      "new": true,
-      "size": ["S", "M", "L"]
+      "img": "https://images.lululemon.com/is/image/lululemon/LM5AQYS_0001_2?wid=1125&op_usm=0.5,2,10,0&fmt=webp&qlt=80,1&fit=constrain,0&op_sharpen=0&resMode=sharp2&iccEmbed=0&printRes=72",
+      "title": "ABC Slim-Fit Stretch Cotton Pants",
+      "price": 128,
+      "bestseller": true,
+      "new": false,
+      "size": ["XS", "S", "M", "L", "XL", "XXL"]
     },
     {
       "id": 13,
-      "img": "https://noona-hnm.netlify.app/sweat-shirt.jpeg",
-      "title": "스웨트셔츠",
-      "price": "$29.99",
-      "choice": false,
+      "img": "https://images.lululemon.com/is/image/lululemon/LM3FA9S_064494_2?wid=1125&op_usm=0.5,2,10,0&fmt=webp&qlt=80,1&fit=constrain,0&op_sharpen=0&resMode=sharp2&iccEmbed=0&printRes=72",
+      "title": "Steady State Half Zip",
+      "price": 118,
+      "bestseller": false,
       "new": false,
-      "size": ["S", "M", "L"]
+      "size": ["XS", "S", "M", "L", "XL", "XXL"]
+    },
+    {
+      "id": 14,
+      "img": "https://images.lululemon.com/is/image/lululemon/LU9C80S_0001_5?wid=1125&op_usm=0.5,2,10,0&fmt=webp&qlt=80,1&fit=constrain,0&op_sharpen=0&resMode=sharp2&iccEmbed=0&printRes=72",
+      "title": "Everywhere Crossbody Bag",
+      "price": 74,
+      "bestseller": true,
+      "new": false,
+      "size": ["S(2L)", "M(3L)", "L(4L)"]
+    },
+    {
+      "id": 15,
+      "img": "https://images.lululemon.com/is/image/lululemon/LU9BRIS_031382_2?wid=1125&op_usm=0.5,2,10,0&fmt=webp&qlt=80,1&fit=constrain,0&op_sharpen=0&resMode=sharp2&iccEmbed=0&printRes=72",
+      "title": "Double-Zip Backpack 22L",
+      "price": 88,
+      "bestseller": false,
+      "new": false,
+      "size": ["ONE SIZE"]
     }
   ]
 }

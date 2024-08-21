@@ -1,0 +1,31 @@
+.nav-login-button {
+  display: flex;
+  justify-content: flex-end;
+  margin: 20px;
+}
+
+.nav-logo {
+  display: flex;
+  justify-content: center;
+}
+
+.nav-menu-list {
+  /* position: fixed; */
+  display: flex;
+  list-style-type: none;
+}
+
+.nav-menu-list li {
+  padding: 10px;
+}
+
+.nav-menu-area {
+  display: flex;
+  justify-content: center;
+}
+
+.nav-search-bar {
+  max-width: 170px;
+  height: 10px;
+  /* margin-left: 85%; */
+}

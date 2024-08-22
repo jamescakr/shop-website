@@ -1,9 +1,15 @@
 import React from "react";
+import { useState } from "react";
 
 const ProductCard = ({ item }) => {
+  const [isHovered, setIsHovered] = useState(false);
+
   return (
-    <div>
-      <img width={320} src={item?.img} />
+    <div
+      onMouseEnter={() => setIsHovered(true)}
+      onMouseLeave={() => setIsHovered(false)}
+    >
+      <img width={320} src={isHovered ? item?.imgHover : item?.img} />
       <div>{item?.title}</div>
       <div>${item?.price}</div>
       <div

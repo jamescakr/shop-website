@@ -6,6 +6,7 @@ body {
   display: flex;
   justify-content: flex-end;
   margin: 20px;
+  cursor: pointer;
 }
 
 .nav-logo {
@@ -38,4 +39,9 @@ body {
 
 .all-row-items {
   /* margin-top: 350px !important; */
+}
+
+.custom-container {
+  width: 30% !important;
+  max-width: 100%;
 }

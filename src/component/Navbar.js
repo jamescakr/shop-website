@@ -4,6 +4,7 @@ import { faUser } from "@fortawesome/free-regular-svg-icons";
 import { faSearch } from "@fortawesome/free-solid-svg-icons";
 import "bootstrap/dist/css/bootstrap.min.css";
 import { FormControl, InputGroup, Button } from "react-bootstrap";
+import { useNavigate } from "react-router-dom";
 
 const Navbar = () => {
   const menuList = [
@@ -16,10 +17,15 @@ const Navbar = () => {
     "ON SALE",
   ];
 
+  const navigate = useNavigate();
+  const goToLogin = () => {
+    navigate("/login");
+  };
+
   return (
     <div>
       <div>
-        <div className="nav-login-button">
+        <div className="nav-login-button" onClick={goToLogin}>
           <FontAwesomeIcon icon={faUser} />
           <div>Login</div>
         </div>

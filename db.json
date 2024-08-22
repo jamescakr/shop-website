@@ -2,43 +2,8 @@
   "products": [
     {
       "id": 0,
-      "img": "https://images.lululemon.com/is/image/lululemon/LW7AW9R_064494_2?wid=1125&op_usm=0.5,2,10,0&fmt=webp&qlt=80,1&fit=constrain,0&op_sharpen=0&resMode=sharp2&iccEmbed=0&printRes=72",
-      "title": "Hotty Hot Low-Rise Lined Short 2.5",
-      "price": 58,
-      "bestseller": true,
-      "new": false,
-      "size": ["0", "2", "4", "6", "8", "10"]
-    },
-    {
-      "id": 1,
-      "img": "https://images.lululemon.com/is/image/lululemon/LW5FARS_0001_2?wid=1125&op_usm=0.5,2,10,0&fmt=webp&qlt=80,1&fit=constrain,0&op_sharpen=0&resMode=sharp2&iccEmbed=0&printRes=72",
-      "title": "High-Rise Tight 25” Pockets",
-      "price": 128,
-      "bestseller": false,
-      "new": true,
-      "size": ["0", "2", "4", "6", "8", "10"]
-    },
-    {
-      "id": 2,
-      "img": "https://images.lululemon.com/is/image/lululemon/LW1ET6S_068060_2?wid=1125&op_usm=0.5,2,10,0&fmt=webp&qlt=80,1&fit=constrain,0&op_sharpen=0&resMode=sharp2&iccEmbed=0&printRes=72",
-      "title": "Scoop-Neck Cropped Tennis Tank Top",
-      "price": 68,
-      "bestseller": false,
-      "new": false,
-      "size": ["0", "2", "4", "6", "8", "10"]
-    },
-    {
-      "id": 3,
-      "img": "https://images.lululemon.com/is/image/lululemon/LW2EB9S_036303_3?wid=1125&op_usm=0.5,2,10,0&fmt=webp&qlt=80,1&fit=constrain,0&op_sharpen=0&resMode=sharp2&iccEmbed=0&printRes=72",
-      "title": "Energy Longline Bra Medium Support",
-      "price": 54,
-      "bestseller": true,
-      "new": true,
-      "size": ["0", "2", "4", "6", "8", "10"]
-    },
-    {
-      "id": 4,
-      "img": "https://images.lululemon.com/is/image/lululemon/LW3DFMS_068363_2?wid=1125&op_usm=0.5,2,10,0&fmt=webp&qlt=80,1&fit=constrain,0&op_sharpen=0&resMode=sharp2&iccEmbed=0&printRes=72",
+      "img": "https://images.lululemon.com/is/image/lululemon/LW3DFMS_068363_1?wid=1125&op_usm=0.5,2,10,0&fmt=webp&qlt=80,1&fit=constrain,0&op_sharpen=0&resMode=sharp2&iccEmbed=0&printRes=72",
+      "imgHover": "https://images.lululemon.com/is/image/lululemon/LW3DFMS_068363_3?wid=1125&op_usm=0.5,2,10,0&fmt=webp&qlt=80,1&fit=constrain,0&op_sharpen=0&resMode=sharp2&iccEmbed=0&printRes=72",
       "title": "Swiftly Tech Short-Sleeve Shirt",
       "price": 58,
       "bestseller": true,
@@ -46,8 +11,9 @@
       "size": ["0", "2", "4", "6", "8", "10"]
     },
     {
-      "id": 5,
-      "img": "https://images.lululemon.com/is/image/lululemon/LW3HYQS_0002_2?wid=1125&op_usm=0.5,2,10,0&fmt=webp&qlt=80,1&fit=constrain,0&op_sharpen=0&resMode=sharp2&iccEmbed=0&printRes=72",
+      "id": 1,
+      "img": "https://images.lululemon.com/is/image/lululemon/LW3HYQS_0002_1?wid=1125&op_usm=0.5,2,10,0&fmt=webp&qlt=80,1&fit=constrain,0&op_sharpen=0&resMode=sharp2&iccEmbed=0&printRes=72",
+      "imgHover": "https://images.lululemon.com/is/image/lululemon/LW3HYQS_0002_3?wid=1125&op_usm=0.5,2,10,0&fmt=webp&qlt=80,1&fit=constrain,0&op_sharpen=0&resMode=sharp2&iccEmbed=0&printRes=72",
       "title": "Define Cropped Jacket",
       "price": 118,
       "bestseller": false,
@@ -55,26 +21,69 @@
       "size": ["0", "2", "4", "6", "8", "10"]
     },
     {
-      "id": 6,
+      "id": 2,
       "img": "https://images.lululemon.com/is/image/lululemon/LW1EDSS_064494_1?wid=1125&op_usm=0.5,2,10,0&fmt=webp&qlt=80,1&fit=constrain,0&op_sharpen=0&resMode=sharp2&iccEmbed=0&printRes=72",
-      "title": "lululemon Align Dress",
-      "price": 138,
-      "bestseller": true,
-      "new": true,
-      "size": ["0", "2", "4", "6", "8", "10"]
-    },
-    {
-      "id": 7,
-      "img": "https://images.lululemon.com/is/image/lululemon/LW1DSIS_064494_1?wid=1125&op_usm=0.5,2,10,0&fmt=webp&qlt=80,1&fit=constrain,0&op_sharpen=0&resMode=sharp2&iccEmbed=0&printRes=72",
-      "title": "lululemon Align™ Bodysuit",
+      "imgHover": "https://images.lululemon.com/is/image/lululemon/LW1EDSS_064494_2?wid=1125&op_usm=0.5,2,10,0&fmt=webp&qlt=80,1&fit=constrain,0&op_sharpen=0&resMode=sharp2&iccEmbed=0&printRes=72",
+      "title": "lululemon Align™ Dress",
       "price": 138,
       "bestseller": false,
       "new": true,
       "size": ["0", "2", "4", "6", "8", "10"]
     },
     {
+      "id": 3,
+      "img": "https://images.lululemon.com/is/image/lululemon/LW3IG3S_3385_1?wid=1125&op_usm=0.5,2,10,0&fmt=webp&qlt=80,1&fit=constrain,0&op_sharpen=0&resMode=sharp2&iccEmbed=0&printRes=72",
+      "imgHover": "https://images.lululemon.com/is/image/lululemon/LW3IG3S_3385_3?wid=1125&op_usm=0.5,2,10,0&fmt=webp&qlt=80,1&fit=constrain,0&op_sharpen=0&resMode=sharp2&iccEmbed=0&printRes=72",
+      "title": "Scuba Oversized Half-Zip Hoodie",
+      "price": 108,
+      "bestseller": true,
+      "new": false,
+      "size": ["0", "2", "4", "6", "8", "10"]
+    },
+    {
+      "id": 4,
+      "img": "https://images.lululemon.com/is/image/lululemon/LW7AW9R_064494_1?wid=1125&op_usm=0.5,2,10,0&fmt=webp&qlt=80,1&fit=constrain,0&op_sharpen=0&resMode=sharp2&iccEmbed=0&printRes=72",
+      "imgHover": "https://images.lululemon.com/is/image/lululemon/LW7AW9R_064494_2?wid=1125&op_usm=0.5,2,10,0&fmt=webp&qlt=80,1&fit=constrain,0&op_sharpen=0&resMode=sharp2&iccEmbed=0&printRes=72",
+      "title": "Hotty Hot Low-Rise Lined Short 2.5",
+      "price": 58,
+      "bestseller": true,
+      "new": false,
+      "size": ["0", "2", "4", "6", "8", "10"]
+    },
+    {
+      "id": 5,
+      "img": "https://images.lululemon.com/is/image/lululemon/LW7BG3S_064494_1?wid=1125&op_usm=0.5,2,10,0&fmt=webp&qlt=80,1&fit=constrain,0&op_sharpen=0&resMode=sharp2&iccEmbed=0&printRes=72",
+      "imgHover": "https://images.lululemon.com/is/image/lululemon/LW7BG3S_064494_2?wid=1125&op_usm=0.5,2,10,0&fmt=webp&qlt=80,1&fit=constrain,0&op_sharpen=0&resMode=sharp2&iccEmbed=0&printRes=72",
+      "title": "lululemon Align™ High-Rise Short 6",
+      "price": 54,
+      "bestseller": true,
+      "new": false,
+      "size": ["0", "2", "4", "6", "8", "10"]
+    },
+    {
+      "id": 6,
+      "img": "https://images.lululemon.com/is/image/lululemon/LW8AFCS_0002_1?wid=1125&op_usm=0.5,2,10,0&fmt=webp&qlt=80,1&fit=constrain,0&op_sharpen=0&resMode=sharp2&iccEmbed=0&printRes=72",
+      "imgHover": "https://images.lululemon.com/is/image/lululemon/LW8AFCS_0002_2?wid=1125&op_usm=0.5,2,10,0&fmt=webp&qlt=80,1&fit=constrain,0&op_sharpen=0&resMode=sharp2&iccEmbed=0&printRes=72",
+      "title": "Side-Pleat High-Rise Tennis Skirt",
+      "price": 88,
+      "bestseller": false,
+      "new": true,
+      "size": ["0", "2", "4", "6", "8", "10"]
+    },
+    {
+      "id": 7,
+      "img": "https://images.lululemon.com/is/image/lululemon/LW2BYCS_064762_1?wid=1125&op_usm=0.5,2,10,0&fmt=webp&qlt=80,1&fit=constrain,0&op_sharpen=0&resMode=sharp2&iccEmbed=0&printRes=72",
+      "imgHover": "https://images.lululemon.com/is/image/lululemon/LW2BYCS_064762_2?wid=1125&op_usm=0.5,2,10,0&fmt=webp&qlt=80,1&fit=constrain,0&op_sharpen=0&resMode=sharp2&iccEmbed=0&printRes=72",
+      "title": "Like a Cloud Bra Light Support",
+      "price": 54,
+      "bestseller": false,
+      "new": true,
+      "size": ["0", "2", "4", "6", "8", "10"]
+    },
+    {
       "id": 8,
-      "img": "https://images.lululemon.com/is/image/lululemon/LM4APWS_032894_2?wid=1125&op_usm=0.5,2,10,0&fmt=webp&qlt=80,1&fit=constrain,0&op_sharpen=0&resMode=sharp2&iccEmbed=0&printRes=72",
+      "img": "https://images.lululemon.com/is/image/lululemon/LM4APWS_032894_1?wid=1125&op_usm=0.5,2,10,0&fmt=webp&qlt=80,1&fit=constrain,0&op_sharpen=0&resMode=sharp2&iccEmbed=0&printRes=72",
+      "imgHover": "https://images.lululemon.com/is/image/lululemon/LM4APWS_032894_3?wid=1125&op_usm=0.5,2,10,0&fmt=webp&qlt=80,1&fit=constrain,0&op_sharpen=0&resMode=sharp2&iccEmbed=0&printRes=72",
       "title": "Pace Breaker Jacket",
       "price": 158,
       "bestseller": false,
@@ -83,7 +92,8 @@
     },
     {
       "id": 9,
-      "img": "https://images.lululemon.com/is/image/lululemon/LM3FCJS_032489_2?wid=1125&op_usm=0.5,2,10,0&fmt=webp&qlt=80,1&fit=constrain,0&op_sharpen=0&resMode=sharp2&iccEmbed=0&printRes=72",
+      "img": "https://images.lululemon.com/is/image/lululemon/LM3FCJS_032489_1?wid=1125&op_usm=0.5,2,10,0&fmt=webp&qlt=80,1&fit=constrain,0&op_sharpen=0&resMode=sharp2&iccEmbed=0&printRes=72",
+      "imgHover": "https://images.lululemon.com/is/image/lululemon/LM3FCJS_032489_3?wid=1125&op_usm=0.5,2,10,0&fmt=webp&qlt=80,1&fit=constrain,0&op_sharpen=0&resMode=sharp2&iccEmbed=0&printRes=72",
       "title": "Venture Short-Sleeve Knit Polo Shirt",
       "price": 108,
       "bestseller": false,
@@ -92,7 +102,8 @@
     },
     {
       "id": 10,
-      "img": "https://images.lululemon.com/is/image/lululemon/LM3FHLS_033976_2?wid=1125&op_usm=0.5,2,10,0&fmt=webp&qlt=80,1&fit=constrain,0&op_sharpen=0&resMode=sharp2&iccEmbed=0&printRes=72",
+      "img": "https://images.lululemon.com/is/image/lululemon/LM3FHLS_033976_1?wid=1125&op_usm=0.5,2,10,0&fmt=webp&qlt=80,1&fit=constrain,0&op_sharpen=0&resMode=sharp2&iccEmbed=0&printRes=72",
+      "imgHover": "https://images.lululemon.com/is/image/lululemon/LM3FHLS_033976_3?wid=1125&op_usm=0.5,2,10,0&fmt=webp&qlt=80,1&fit=constrain,0&op_sharpen=0&resMode=sharp2&iccEmbed=0&printRes=72",
       "title": "Metal Vent Tech Polo Shirt",
       "price": 88,
       "bestseller": false,
@@ -101,34 +112,38 @@
     },
     {
       "id": 11,
-      "img": "https://images.lululemon.com/is/image/lululemon/LM3FAES_027597_2?wid=1125&op_usm=0.5,2,10,0&fmt=webp&qlt=80,1&fit=constrain,0&op_sharpen=0&resMode=sharp2&iccEmbed=0&printRes=72",
+      "img": "https://images.lululemon.com/is/image/lululemon/LM3FAES_027597_1?wid=1125&op_usm=0.5,2,10,0&fmt=webp&qlt=80,1&fit=constrain,0&op_sharpen=0&resMode=sharp2&iccEmbed=0&printRes=72",
+      "imgHover": "https://images.lululemon.com/is/image/lululemon/LM3FAES_027597_3?wid=1125&op_usm=0.5,2,10,0&fmt=webp&qlt=80,1&fit=constrain,0&op_sharpen=0&resMode=sharp2&iccEmbed=0&printRes=72",
       "title": "Steady State Pullover Hoodie",
-      "price": 58,
-      "bestseller": false,
-      "new": false,
-      "size": ["XS", "S", "M", "L", "XL", "XXL"]
-    },
-    {
-      "id": 12,
-      "img": "https://images.lululemon.com/is/image/lululemon/LM5AQYS_0001_2?wid=1125&op_usm=0.5,2,10,0&fmt=webp&qlt=80,1&fit=constrain,0&op_sharpen=0&resMode=sharp2&iccEmbed=0&printRes=72",
-      "title": "ABC Slim-Fit Stretch Cotton Pants",
-      "price": 128,
-      "bestseller": true,
-      "new": false,
-      "size": ["XS", "S", "M", "L", "XL", "XXL"]
-    },
-    {
-      "id": 13,
-      "img": "https://images.lululemon.com/is/image/lululemon/LM3FA9S_064494_2?wid=1125&op_usm=0.5,2,10,0&fmt=webp&qlt=80,1&fit=constrain,0&op_sharpen=0&resMode=sharp2&iccEmbed=0&printRes=72",
-      "title": "Steady State Half Zip",
       "price": 118,
       "bestseller": false,
       "new": false,
       "size": ["XS", "S", "M", "L", "XL", "XXL"]
     },
     {
+      "id": 12,
+      "img": "https://images.lululemon.com/is/image/lululemon/LM7BD3S_032493_1?wid=1125&op_usm=0.5,2,10,0&fmt=webp&qlt=80,1&fit=constrain,0&op_sharpen=0&resMode=sharp2&iccEmbed=0&printRes=72",
+      "imgHover": "https://images.lululemon.com/is/image/lululemon/LM7BD3S_032493_2?wid=1125&op_usm=0.5,2,10,0&fmt=webp&qlt=80,1&fit=constrain,0&op_sharpen=0&resMode=sharp2&iccEmbed=0&printRes=72",
+      "title": "Steady State Relaxed-Fit Short 5",
+      "price": 68,
+      "bestseller": false,
+      "new": false,
+      "size": ["XS", "S", "M", "L", "XL", "XXL"]
+    },
+    {
+      "id": 13,
+      "img": "https://images.lululemon.com/is/image/lululemon/LM7BIZS_027597_1?wid=1125&op_usm=0.5,2,10,0&fmt=webp&qlt=80,1&fit=constrain,0&op_sharpen=0&resMode=sharp2&iccEmbed=0&printRes=72",
+      "imgHover": "https://images.lululemon.com/is/image/lululemon/LM7BIZS_027597_2?wid=1125&op_usm=0.5,2,10,0&fmt=webp&qlt=80,1&fit=constrain,0&op_sharpen=0&resMode=sharp2&iccEmbed=0&printRes=72",
+      "title": "Relaxed-Fit Workout Mesh Short 9",
+      "price": 78,
+      "bestseller": false,
+      "new": true,
+      "size": ["XS", "S", "M", "L", "XL", "XXL"]
+    },
+    {
       "id": 14,
-      "img": "https://images.lululemon.com/is/image/lululemon/LU9C80S_0001_5?wid=1125&op_usm=0.5,2,10,0&fmt=webp&qlt=80,1&fit=constrain,0&op_sharpen=0&resMode=sharp2&iccEmbed=0&printRes=72",
+      "img": "https://images.lululemon.com/is/image/lululemon/LU9C80S_067339_1?wid=1125&op_usm=0.5,2,10,0&fmt=webp&qlt=80,1&fit=constrain,0&op_sharpen=0&resMode=sharp2&iccEmbed=0&printRes=72",
+      "imgHover": "https://images.lululemon.com/is/image/lululemon/LU9C80S_067339_2?wid=1125&op_usm=0.5,2,10,0&fmt=webp&qlt=80,1&fit=constrain,0&op_sharpen=0&resMode=sharp2&iccEmbed=0&printRes=72",
       "title": "Everywhere Crossbody Bag",
       "price": 74,
       "bestseller": true,
@@ -137,7 +152,8 @@
     },
     {
       "id": 15,
-      "img": "https://images.lululemon.com/is/image/lululemon/LU9BRIS_031382_2?wid=1125&op_usm=0.5,2,10,0&fmt=webp&qlt=80,1&fit=constrain,0&op_sharpen=0&resMode=sharp2&iccEmbed=0&printRes=72",
+      "img": "https://images.lululemon.com/is/image/lululemon/LU9BRIS_065071_1?wid=1125&op_usm=0.5,2,10,0&fmt=webp&qlt=80,1&fit=constrain,0&op_sharpen=0&resMode=sharp2&iccEmbed=0&printRes=72",
+      "imgHover": "https://images.lululemon.com/is/image/lululemon/LU9BRIS_065071_2?wid=1125&op_usm=0.5,2,10,0&fmt=webp&qlt=80,1&fit=constrain,0&op_sharpen=0&resMode=sharp2&iccEmbed=0&printRes=72",
       "title": "Double-Zip Backpack 22L",
       "price": 88,
       "bestseller": false,

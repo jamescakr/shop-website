@@ -45,3 +45,8 @@ body {
   width: 30% !important;
   max-width: 100%;
 }
+
+.login-structure {
+  display: flex;
+  justify-content: center;
+}

@@ -1,13 +1,18 @@
 import React from "react";
 import { useState } from "react";
+import { useNavigate } from "react-router-dom";
 
 const ProductCard = ({ item }) => {
   const [isHovered, setIsHovered] = useState(false);
-
+  const navigate = useNavigate();
+  const showDetail = () => {
+    navigate(`/product/${item.id}`);
+  };
   return (
     <div
       onMouseEnter={() => setIsHovered(true)}
       onMouseLeave={() => setIsHovered(false)}
+      onClick={showDetail}
     >
       <img width={320} src={isHovered ? item?.imgHover : item?.img} />
       <div>{item?.title}</div>

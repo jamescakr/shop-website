@@ -27,7 +27,7 @@ const Navbar = () => {
       <div>
         <div className="nav-login-button" onClick={goToLogin}>
           <FontAwesomeIcon icon={faUser} />
-          <div>Login</div>
+          <div>Sign in</div>
         </div>
       </div>
       <div className="nav-logo">

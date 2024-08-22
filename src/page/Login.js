@@ -13,28 +13,35 @@ const Login = ({ setAuthenticate }) => {
     navigate("/");
   };
   return (
-    <Container className="custom-container">
-      <Form onSubmit={(event) => userLogin(event)}>
-        <Form.Group className="mb-3" controlId="formBasicEmail">
-          <Form.Label>Email address</Form.Label>
-          <Form.Control type="email" placeholder="Enter your email" />
-          <Form.Text className="text-muted">
-            We'll never share your email with anyone else.
-          </Form.Text>
-        </Form.Group>
+    <div className="login-structure">
+      <Container className="custom-container">
+        <Form onSubmit={(event) => userLogin(event)}>
+          <Form.Group className="mb-3" controlId="formBasicEmail">
+            <Form.Label>
+              <strong>Email address</strong>
+            </Form.Label>
+            <Form.Control type="email" placeholder="Enter your email" />
+            <Form.Text className="text-muted">
+              By signing in or creating a member account, you agree to the Terms of
+              Use and acknowledge the Privacy Policy.{" "}
+            </Form.Text>
+          </Form.Group>
 
-        <Form.Group className="mb-3" controlId="formBasicPassword">
-          <Form.Label>Password</Form.Label>
-          <Form.Control type="password" placeholder="Password" />
-        </Form.Group>
-        <Form.Group className="mb-3" controlId="formBasicCheckbox">
-          <Form.Check type="checkbox" label="Check me out" />
-        </Form.Group>
-        <Button variant="success" type="submit">
-          Login
-        </Button>
-      </Form>
-    </Container>
+          <Form.Group className="mb-3" controlId="formBasicPassword">
+            <Form.Label>
+              <strong>Password</strong>
+            </Form.Label>
+            <Form.Control type="password" placeholder="Password" />
+          </Form.Group>
+          <Form.Group className="mb-3" controlId="formBasicCheckbox">
+            <Form.Check type="checkbox" label="Check me out" />
+          </Form.Group>
+          <Button variant="success" type="submit">
+            Sign in
+          </Button>
+        </Form>
+      </Container>
+    </div>
   );
 };
 

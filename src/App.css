@@ -50,3 +50,75 @@ body {
   display: flex;
   justify-content: center;
 }
+
+.detail-bestseller-tag {
+  max-width: 100%;
+  height: auto;
+}
+
+.detail-bestseller-tag img {
+  width: 110px;
+  height: auto;
+  object-fit: contain;
+}
+
+.detail-main-image {
+  max-width: 100%;
+  height: auto;
+  object-fit: contain;
+}
+
+.detail-color-button {
+  border: 1px solid rgba(239, 239, 239, 0.786);
+  box-shadow: 0 0 0 0.5px rgb(182, 182, 182);
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  transition: all 0.3s ease;
+  margin: 7px;
+}
+
+.detail-color-button:hover {
+  box-shadow: 0 0 1px 6px rgba(86, 86, 86, 0.3);
+}
+
+.detail-color-button1 {
+  background-color: rgb(52, 67, 62);
+}
+
+.detail-color-button2 {
+  background-color: black;
+}
+
+.detail-color-button3 {
+  background-color: white;
+}
+
+.detail-color-area {
+  display: flex;
+}
+
+.detail-size-button {
+  border-radius: 5px;
+  margin: 5px;
+  width: 40px;
+  height: 40px;
+  border: 1px solid rgb(211, 211, 211);
+  box-shadow: 0 0 0 0.5px rgb(211, 211, 211);
+}
+
+.detail-size-button:hover {
+  box-shadow: 0 0 3px 2px grey;
+}
+
+.detail-add-to-bag {
+  max-width: 100%;
+  font-size: 16px;
+  font-family: Calibre, "Helvetica Neue";
+  width: 400px;
+  height: 40px;
+  background-color: rgb(101, 203, 46);
+  border: none;
+  color: #fff;
+  border-radius: 0.25rem;
+}

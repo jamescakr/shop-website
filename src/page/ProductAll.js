@@ -6,7 +6,7 @@ import "../App.css";
 const ProductAll = () => {
   const [productList, setProductList] = useState([]);
   const getProducts = async () => {
-    let url = `http://localhost:4000/products/`;
+    let url = `https://my-json-server.typicode.com/jamescakr/shop-website/products`;
     let response = await fetch(url);
     let data = await response.json();
     console.log(data);

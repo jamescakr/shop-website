@@ -21,18 +21,14 @@ const ProductCard = ({ item }) => {
         className="card-tag"
         style={{ display: "flex", justifyContent: "space-between" }}
       >
+        <div>{item?.new && <img src="./images/new-tag.png" width={50} />}</div>
         <div>
-          {item?.new === true ? <img src="./images/new-tag.png" width={50} /> : ""}
-        </div>
-        <div>
-          {item?.bestseller === true ? (
+          {item?.bestseller && (
             <img
               src="./images/bestseller-tag2.png"
               width={90}
               style={{ marginTop: 7, marginLeft: 180 }}
             />
-          ) : (
-            ""
           )}
         </div>
       </div>

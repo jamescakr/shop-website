@@ -8,6 +8,7 @@
       "price": 58,
       "bestseller": true,
       "new": false,
+      "color": ["black", "white", "ivory", "legacy green"],
       "size": ["0", "2", "4", "6", "8", "10"]
     },
     {
@@ -16,8 +17,9 @@
       "imgHover": "https://images.lululemon.com/is/image/lululemon/LW3HYQS_0002_3?wid=1125&op_usm=0.5,2,10,0&fmt=webp&qlt=80,1&fit=constrain,0&op_sharpen=0&resMode=sharp2&iccEmbed=0&printRes=72",
       "title": "Define Cropped Jacket",
       "price": 118,
-      "bestseller": false,
+      "bestseller": true,
       "new": false,
+      "color": ["black", "white", "ivory", "legacy green"],
       "size": ["0", "2", "4", "6", "8", "10"]
     },
     {
@@ -28,6 +30,7 @@
       "price": 138,
       "bestseller": false,
       "new": true,
+      "color": ["black", "white", "ivory", "legacy green"],
       "size": ["0", "2", "4", "6", "8", "10"]
     },
     {
@@ -38,6 +41,7 @@
       "price": 108,
       "bestseller": true,
       "new": false,
+      "color": ["black", "white", "ivory", "legacy green"],
       "size": ["0", "2", "4", "6", "8", "10"]
     },
     {
@@ -48,6 +52,7 @@
       "price": 58,
       "bestseller": true,
       "new": false,
+      "color": ["black", "white", "ivory", "legacy green"],
       "size": ["0", "2", "4", "6", "8", "10"]
     },
     {
@@ -58,6 +63,7 @@
       "price": 54,
       "bestseller": true,
       "new": false,
+      "color": ["black", "white", "ivory", "legacy green"],
       "size": ["0", "2", "4", "6", "8", "10"]
     },
     {
@@ -68,6 +74,7 @@
       "price": 88,
       "bestseller": false,
       "new": true,
+      "color": ["black", "white", "ivory", "legacy green"],
       "size": ["0", "2", "4", "6", "8", "10"]
     },
     {
@@ -78,6 +85,7 @@
       "price": 54,
       "bestseller": false,
       "new": true,
+      "color": ["black", "white", "ivory", "legacy green"],
       "size": ["0", "2", "4", "6", "8", "10"]
     },
     {
@@ -88,6 +96,7 @@
       "price": 158,
       "bestseller": false,
       "new": false,
+      "color": ["black", "white", "ivory", "legacy green"],
       "size": ["XS", "S", "M", "L", "XL", "XXL"]
     },
     {
@@ -98,6 +107,7 @@
       "price": 108,
       "bestseller": false,
       "new": true,
+      "color": ["black", "white", "ivory", "legacy green"],
       "size": ["XS", "S", "M", "L", "XL", "XXL"]
     },
     {
@@ -108,6 +118,7 @@
       "price": 88,
       "bestseller": false,
       "new": true,
+      "color": ["black", "white", "ivory", "legacy green"],
       "size": ["XS", "S", "M", "L", "XL", "XXL"]
     },
     {
@@ -118,6 +129,7 @@
       "price": 118,
       "bestseller": false,
       "new": false,
+      "color": ["black", "white", "ivory", "legacy green"],
       "size": ["XS", "S", "M", "L", "XL", "XXL"]
     },
     {
@@ -128,6 +140,7 @@
       "price": 68,
       "bestseller": false,
       "new": false,
+      "color": ["black", "white", "ivory", "legacy green"],
       "size": ["XS", "S", "M", "L", "XL", "XXL"]
     },
     {
@@ -138,6 +151,7 @@
       "price": 78,
       "bestseller": false,
       "new": true,
+      "color": ["black", "white", "ivory", "legacy green"],
       "size": ["XS", "S", "M", "L", "XL", "XXL"]
     },
     {

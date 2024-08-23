@@ -62,7 +62,11 @@ const Navbar = ({ authenticate, setAuthenticate }) => {
             <InputGroup.Text>
               <FontAwesomeIcon icon={faSearch} />
             </InputGroup.Text>
-            <FormControl placeholder="Search" onKeyDown={(event) => search(event)} />
+            <FormControl
+              placeholder="Search"
+              onKeyDown={(event) => search(event)}
+              onFocus={(event) => (event.target.value = "")}
+            />
           </InputGroup>
         </div>
         <div className="nav-account-area">

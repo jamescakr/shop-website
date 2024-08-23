@@ -21,7 +21,7 @@ const ProductDetail = () => {
     <Container>
       <Row>
         <Col>
-          <div className="custom-carousel">
+          <div className="detail-custom-carousel">
             <Carousel>
               <Carousel.Item>
                 <img

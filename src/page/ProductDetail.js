@@ -22,11 +22,17 @@ const ProductDetail = () => {
     <Container>
       <Row>
         <Col>
-          <img src={product?.img} className="detail-main-image" />
+          <img
+            src={product?.img}
+            className="detail-main-image"
+            alt="{product?.title}"
+          />
         </Col>
         <Col>
           <div className="detail-bestseller-tag">
-            {product?.bestseller && <img src="../images/bestseller-tag2.png" />}
+            {product?.bestseller && (
+              <img src="../images/bestseller-tag2.png" alt="Bestseller Tag" />
+            )}
           </div>
           <h2>
             <strong>{product?.title}</strong>

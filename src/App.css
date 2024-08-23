@@ -7,11 +7,22 @@ body {
   justify-content: flex-end;
   margin: 20px;
   cursor: pointer;
+  font-size: 20px;
+}
+.nav-heart-button {
+  cursor: pointer;
+  font-size: 30px;
+  margin-right: 30px;
+}
+
+.nav-bag-button {
+  cursor: pointer;
+  font-size: 30px;
 }
 
 .nav-logo {
   display: flex;
-  justify-content: center;
+  justify-content: left;
 }
 
 .nav-menu-list {
@@ -25,30 +36,57 @@ body {
 
 .nav-menu-area {
   display: flex;
-  justify-content: center;
 }
 
 .nav-search-bar {
-  max-width: 170px;
-  height: 10px;
+  max-width: 200px;
+  height: 40px;
+  border: 1px solid #000;
+  border-radius: 5px;
+  overflow: hidden;
+  margin-left: 100px;
+  margin-right: 180px;
+}
+
+.nav-search-bar .input-group-text {
+  background-color: #fff;
+  border: none;
+}
+
+.nav-search-bar .form-control {
+  border: none;
+}
+
+.nav-account-area {
+  display: flex;
+  align-items: center;
 }
 
 .card-tag {
   display: flex;
 }
 
-.all-row-items {
-  /* margin-top: 350px !important; */
-}
-
 .custom-container {
-  width: 30% !important;
+  width: 30%;
   max-width: 100%;
 }
 
 .login-structure {
   display: flex;
   justify-content: center;
+  flex-direction: row;
+}
+
+@media (max-width: 768px) {
+  .login-structure {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .login-structure img {
+    width: 100%;
+    margin-bottom: 20px;
+  }
 }
 
 .detail-bestseller-tag {
@@ -121,4 +159,5 @@ body {
   border: none;
   color: #fff;
   border-radius: 0.25rem;
+  margin-top: 100px;
 }

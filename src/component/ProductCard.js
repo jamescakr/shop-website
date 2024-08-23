@@ -23,13 +23,7 @@ const ProductCard = ({ item }) => {
       >
         <div>{item?.new && <img src="./images/new-tag.png" width={50} />}</div>
         <div>
-          {item?.bestseller && (
-            <img
-              src="./images/bestseller-tag2.png"
-              width={90}
-              style={{ marginTop: 7, marginLeft: 180 }}
-            />
-          )}
+          {item?.bestseller && <img src="./images/bestseller-tag2.png" width={90} />}
         </div>
       </div>
     </div>

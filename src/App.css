@@ -66,7 +66,7 @@ body {
   display: none;
 }
 
-/* 햄버거 사이드메뉴 모바일 */
+/* hamburger menu for mobile */
 @media (max-width: 768px) {
   .nav-menu-area {
     display: none;
@@ -120,7 +120,7 @@ body {
   flex-direction: row;
 }
 
-/* 로그인 모바일 */
+/* login part for mobile */
 @media (max-width: 768px) {
   .login-structure {
     flex-direction: column;
@@ -204,4 +204,10 @@ body {
   color: #fff;
   border-radius: 0.25rem;
   margin-top: 100px;
+}
+
+/* changed carousel's arrow color */
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  background-color: rgb(101, 203, 46);
 }

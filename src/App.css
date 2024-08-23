@@ -207,7 +207,7 @@ body {
 }
 
 /* changed carousel's arrow color */
-.carousel-control-prev-icon,
-.carousel-control-next-icon {
+.custom-carousel .carousel-control-prev-icon,
+.custom-carousel .carousel-control-next-icon {
   background-color: rgb(101, 203, 46);
 }

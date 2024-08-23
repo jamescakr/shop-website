@@ -1,13 +1,18 @@
-import React from "react";
+import React, { useState } from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faCircleUser, faHeart } from "@fortawesome/free-regular-svg-icons";
-import { faBagShopping } from "@fortawesome/free-solid-svg-icons";
-import { faSearch } from "@fortawesome/free-solid-svg-icons";
+import {
+  faBagShopping,
+  faSearch,
+  faTimes,
+  faBars,
+} from "@fortawesome/free-solid-svg-icons";
 import "bootstrap/dist/css/bootstrap.min.css";
-import { FormControl, InputGroup, Button, Container } from "react-bootstrap";
+import { FormControl, InputGroup, Container } from "react-bootstrap";
 import { useNavigate } from "react-router-dom";
 
 const Navbar = ({ authenticate, setAuthenticate }) => {
+  const [showSideMenu, setShowSideMenu] = useState(false);
   const menuList = ["WOMEN", "MEN", "ACCESSORIES", "New Arrival"];
 
   const navigate = useNavigate();
@@ -75,7 +80,29 @@ const Navbar = ({ authenticate, setAuthenticate }) => {
             <FontAwesomeIcon icon={faBagShopping} />
           </div>
         </div>
+        <div
+          className="nav-hamburger"
+          onClick={() => setShowSideMenu(!showSideMenu)}
+        >
+          <FontAwesomeIcon
+            icon={faBars}
+            style={{ fontSize: "30px", color: "rgb(101, 203, 46)", marginLeft: 30 }}
+          />
+        </div>
       </Container>
+
+      {showSideMenu && (
+        <div className="nav-side-menu">
+          <div className="nav-side-menu-header">
+            <FontAwesomeIcon icon={faTimes} onClick={() => setShowSideMenu(false)} />
+          </div>
+          <ul className="nav-side-menu-list">
+            {menuList.map((menu) => (
+              <li key={menu}>{menu}</li>
+            ))}
+          </ul>
+        </div>
+      )}
     </div>
   );
 };

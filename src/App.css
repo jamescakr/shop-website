@@ -62,6 +62,49 @@ body {
   align-items: center;
 }
 
+.nav-hamburger {
+  display: none;
+}
+
+/* 햄버거 사이드메뉴 모바일 */
+@media (max-width: 768px) {
+  .nav-menu-area {
+    display: none;
+  }
+
+  .nav-hamburger {
+    display: block;
+    cursor: pointer;
+  }
+
+  .nav-side-menu {
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 170px;
+    height: 100%;
+    background-color: rgb(134, 172, 113);
+    z-index: 10;
+    padding: 20px;
+  }
+
+  .nav-side-menu-header {
+    display: flex;
+    justify-content: flex-end;
+  }
+
+  .nav-side-menu-list {
+    list-style-type: none;
+    padding: 0;
+  }
+
+  .nav-side-menu-list li {
+    padding: 15px 0;
+    font-size: 18px;
+    border-bottom: 1px solid black;
+  }
+}
+
 .card-tag {
   display: flex;
 }
@@ -77,6 +120,7 @@ body {
   flex-direction: row;
 }
 
+/* 로그인 모바일 */
 @media (max-width: 768px) {
   .login-structure {
     flex-direction: column;

@@ -1,12 +1,11 @@
 import React, { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
-import { Container, Row, Col } from "react-bootstrap";
+import { Container, Row, Col, Carousel } from "react-bootstrap";
 
 const ProductDetail = () => {
   let { id } = useParams();
   const [product, setProduct] = useState();
   const [hoveredColor, setHoveredColor] = useState();
-  const [hoveredSize, setHoveredSize] = useState();
 
   const getProductDetail = async () => {
     let url = `https://my-json-server.typicode.com/jamescakr/shop-website/products/${id}`;
@@ -22,11 +21,18 @@ const ProductDetail = () => {
     <Container>
       <Row>
         <Col>
-          <img
-            src={product?.img}
-            className="detail-main-image"
-            alt="{product?.title}"
-          />
+          <Carousel>
+            <Carousel.Item>
+              <img className="d-block w-100" src={product?.img} alt="First slide" />
+            </Carousel.Item>
+            <Carousel.Item>
+              <img
+                className="d-block w-100"
+                src={product?.imgHover}
+                alt="Second slide"
+              />
+            </Carousel.Item>
+          </Carousel>
         </Col>
         <Col>
           <div className="detail-bestseller-tag">

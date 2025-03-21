@@ -36,7 +36,7 @@ const ProductAll = () => {
             <Carousel.Caption>
               <h3>Wellbeing made easier.</h3>
               <p>
-                Discover lululemon Membership, and enjoy benefits like exchanges or
+                Discover lululime Membership, and enjoy benefits like exchanges or
                 credit on sale items, early access to product drops, and partner
                 perks.
               </p>
@@ -49,10 +49,10 @@ const ProductAll = () => {
               alt="Third slide"
             />
             <Carousel.Caption>
-              <h3>Succulent accessories, on the way.</h3>
+              <h3 className="text-white">Succulent accessories, on the way.</h3>
               <p>
                 New Cactus Material, in the bag. Members can shop first starting
-                August 27, only on the lululemon App.
+                August 27, only on the lululime App.
               </p>
             </Carousel.Caption>
           </Carousel.Item>
